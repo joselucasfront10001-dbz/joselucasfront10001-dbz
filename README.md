@@ -6,7 +6,7 @@
 <h3 align="center">🚀 "Super Desenvolvedor em treinamento na Capsule Corp!"</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dragon+Ball&size=30&duration=4000&color=F0DB4F&center=true&vCenter=true&width=600&lines=Power+Level:+Over+9000!;Kakarotto!;Torneio+do+Poder+do+Código!;%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dragon+Ball&size=25&duration=4000&color=F0DB4F&center=true&vCenter=true&width=1200&lines=Power+Level:+Over+9000!;Kakarotto!;Torneio+do+Poder+do+Código!;Não+é+sobre+vencer+ou+perder+,+é+sobre+nunca+desistir!;%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F!" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,9 +20,9 @@
 | **💪 Base** | `HTML5` `CSS3` `JavaScript` | ![Level](https://progress-bar.vercel.app/?width=80&color=FF8C00) |
 | **✨ Kaio-ken** | `React` `Git` `GitHub` | ![Level](https://progress-bar.vercel.app/?width=65&color=FFD700) |
 | **💥 Super Saiyajin** | `TypeScript` `Node.js` `Python` | ![Level](https://progress-bar.vercel.app/?width=45&color=00BFFF) |
-| **🌀 Super Saiyajin 2** | `AWS` `Docker` `SQL` | ![Level](https://progress-bar.vercel.app/?width=30&color=FF0000) |
+| **⚡ Super Saiyajin 2** | `AWS` `Docker` `SQL` | ![Level](https://progress-bar.vercel.app/?width=30&color=FF0000) |
 | **⚡ Super Saiyajin 3** | `Arquitetura` `DevOps` `IaC` | ![Level](https://progress-bar.vercel.app/?width=15&color=800080) |
-| **⚡ Super Saiyajin 4** | `MSQl` | ![Level](https://progress-bar.vercel.app/?width=15&color=800080) |
+| **🌀 Super Saiyajin 4** | `MSQl` | ![Level](https://progress-bar.vercel.app/?width=15&color=800080) |
 
 
 </div>
@@ -87,11 +87,16 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Badges Especiais Dragon Ball**
-![Dragon Ball Fan](https://img.shields.io/badge/🐉-Dragon_Ball_Fan-FF6B6B?style=for-the-badge&logo=dragonball&logoColor=white)
-![Power Level](https://img.shields.io/badge/⚡-Power_Level:_Over_9000!-yellow?style=for-the-badge)
-![Z-Fighter](https://img.shields.io/badge/👊-Z_Fighter-blue?style=for-the-badge)
-![Saiyan Pride](https://img.shields.io/badge/💥-Saiyan_Pride-orange?style=for-the-badge)
+## 📡 Localizador de Ki (Contato)
+
+<div align="center">
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -109,3 +114,8 @@ graph LR
     style C fill:#00BFFF
     style D fill:#FF0000
     style E fill:#800080
+```
+##
+<p align="center">
+  <i>"Trabalhe arduamente e estude muito, coma e durma bastante... esse é o estilo Kame!" 🐢</i>
+</p>
