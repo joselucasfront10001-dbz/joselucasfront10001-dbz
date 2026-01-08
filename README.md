@@ -90,7 +90,7 @@
 ## 📡 Localizador de Ki (Contato)
 
 <div align="center">
-  <a href="mailto:sjoselucas.front10001@gmail.com">
+  <a href="mailto:joselucas.front10001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5585992537745">
