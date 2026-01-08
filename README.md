@@ -6,7 +6,7 @@
 <h3 align="center">🚀 "Super Desenvolvedor em treinamento na Capsule Corp!"</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dragon+Ball&size=25&duration=4000&color=F0DB4F&center=true&vCenter=true&width=1200&lines=Power+Level:+Over+9000!;Kakarotto!;Torneio+do+Poder+do+Código!;Não+é+sobre+vencer+ou+perder+,+é+sobre+nunca+desistir!;%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dragon+Ball&size=30&duration=4000&color=F0DB4F&center=true&vCenter=true&width=1200&lines=Power+Level:+Over+9000!;Kakarotto!;Torneio+do+Poder+do+Código!;Não+é+sobre+vencer+ou+perder+,+é+sobre+nunca+desistir!;%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F!" alt="Typing SVG" />
 </p>
 
 ---
